@@ -1,0 +1,1 @@
+import"./config.B34iTAJc.js";import"./zh_TW.B395Vq90.js";function u(n,o){const e=n.replace(/^\/|\/$/g,"").toLowerCase(),r=o.replace(/^\/|\/$/g,"").toLowerCase();return e===r}function t(...n){return n.join("/").replace(/\/+/g,"/")}function c(n){return t("","/yanwu-new.github.io/",n)}export{u as p,c as u};
