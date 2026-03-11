@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mizuki</title>
-  <subtitle>One demo website</subtitle>
+  <title>言吾的Blog</title>
+  <subtitle>欢迎大家来到我的博客！</subtitle>
   <link href="https://yanwu-new.github.io/" rel="alternate" type="text/html"/>
   <link href="https://yanwu-new.github.io/atom.xml" rel="self" type="application/atom+xml"/>
   <id>https://yanwu-new.github.io/</id>
-  <updated>2026-03-10T16:05:52.025Z</updated>
+  <updated>2026-03-11T02:55:35.356Z</updated>
   <language>zh_CN</language>
   <entry>
     <title>Markdown Tutorial</title>
