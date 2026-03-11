@@ -12,6 +12,7 @@
 &lt;h3&gt;📝 文章与分类&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;支持 Markdown 写作，代码高亮&lt;/li&gt;
+&lt;li&gt;同步边写作，边本地渲染预览&lt;/li&gt;
 &lt;li&gt;文章分类：技术、生活、读书、项目&lt;/li&gt;
 &lt;li&gt;标签系统，方便检索相关内容&lt;/li&gt;
 &lt;/ul&gt;
@@ -100,7 +101,7 @@
 &lt;p&gt;博客上线只是第一步，接下来我还打算：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[ ] 优化 Pio 看板娘的稳定性，争取早日让看板娘出现在博客内&lt;/li&gt;
-&lt;li&gt;[ ] 尽快寻找图床，让评论区可以发送图片&lt;/li&gt;
+&lt;li&gt;[ ] 尽快寻找图床，让评论区可以发送图片，以及达成不需要magic的条件&lt;/li&gt;
 &lt;li&gt;[ ] 写更多技术文章分享踩坑经验&lt;/li&gt;
 &lt;li&gt;[ ] 写更多日记分享生活点滴&lt;/li&gt;
 &lt;/ul&gt;

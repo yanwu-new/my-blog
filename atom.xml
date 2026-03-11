@@ -5,7 +5,7 @@
   <link href="https://yanwu-new.github.io/" rel="alternate" type="text/html"/>
   <link href="https://yanwu-new.github.io/atom.xml" rel="self" type="application/atom+xml"/>
   <id>https://yanwu-new.github.io/</id>
-  <updated>2026-03-11T14:13:31.951Z</updated>
+  <updated>2026-03-11T14:49:13.182Z</updated>
   <language>zh_CN</language>
   <entry>
     <title>从零开始：当我丢失了双因子认证，我选择重新搭建博客</title>
@@ -28,6 +28,7 @@
 <h3>📝 文章与分类</h3>
 <ul>
 <li>支持 Markdown 写作，代码高亮</li>
+<li>同步边写作，边本地渲染预览</li>
 <li>文章分类：技术、生活、读书、项目</li>
 <li>标签系统，方便检索相关内容</li>
 </ul>
@@ -116,7 +117,7 @@
 <p>博客上线只是第一步，接下来我还打算：</p>
 <ul>
 <li>[ ] 优化 Pio 看板娘的稳定性，争取早日让看板娘出现在博客内</li>
-<li>[ ] 尽快寻找图床，让评论区可以发送图片</li>
+<li>[ ] 尽快寻找图床，让评论区可以发送图片，以及达成不需要magic的条件</li>
 <li>[ ] 写更多技术文章分享踩坑经验</li>
 <li>[ ] 写更多日记分享生活点滴</li>
 </ul>
