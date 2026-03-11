@@ -1,0 +1,10 @@
+{
+	"title": "冬日旅行",
+	"hidden": false,
+	"description": "恰逢冬日，四处转转",
+	"date": "2026-01-01",
+	"location": "苏州，上海",
+	"tags": ["漫展", "园林"],
+	"layout": "masonry",
+	"columns": 3
+}
