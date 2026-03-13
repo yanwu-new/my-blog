@@ -3,4 +3,4 @@ Disallow: /
 Allow: /$
 Allow: /posts/
 
-Sitemap: https://yanwu-new.online/sitemap-index.xml
+Sitemap: https://www.yanwu-new.online/sitemap-index.xml
