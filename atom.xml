@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>言吾的Blog</title>
   <subtitle>欢迎大家来到我的博客！</subtitle>
-  <link href="https://yanwu-new.github.io/" rel="alternate" type="text/html"/>
-  <link href="https://yanwu-new.github.io/atom.xml" rel="self" type="application/atom+xml"/>
-  <id>https://yanwu-new.github.io/</id>
-  <updated>2026-03-13T06:24:23.222Z</updated>
+  <link href="https://yanwu-new.online/" rel="alternate" type="text/html"/>
+  <link href="https://yanwu-new.online/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://yanwu-new.online/</id>
+  <updated>2026-03-13T06:42:34.587Z</updated>
   <language>zh_CN</language>
   <entry>
     <title>从零开始：当我丢失了双因子认证，我选择重新搭建博客</title>
-    <link href="https://yanwu-new.github.io/posts/first_post/" rel="alternate" type="text/html"/>
-    <id>https://yanwu-new.github.io/posts/first_post/</id>
+    <link href="https://yanwu-new.online/posts/first_post/" rel="alternate" type="text/html"/>
+    <id>https://yanwu-new.online/posts/first_post/</id>
     <published>2026-03-11T00:00:00.000Z</published>
     <updated>2026-03-11T00:00:00.000Z</updated>
     <summary>博客的建成由来与指南</summary>
